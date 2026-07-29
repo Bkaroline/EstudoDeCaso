@@ -9,7 +9,7 @@ Descrição
 Este projeto foi desenvolvido como um estudo de caso na área de Análise de Dados, utilizando uma floricultura especializada em orquídeas como cenário de análise. O objetivo é explorar os dados do negócio, identificar padrões, gerar insights e apoiar a tomada de decisões por meio da análise de dados.
 
 
-Estrutura do Projeto
+ESTRUTURA DO PROJETO:
 
 Case.ipynb – Script em Python responsável pelo tratamento, análise e visualização dos dados.
 
@@ -21,7 +21,7 @@ README.md – Documentação do projeto e instruções sobre sua estrutura.
 
 
 
-Objetivo
+OBJETIVO
 
 Aplicar técnicas de análise de dados para compreender o desempenho da floricultura, identificar oportunidades de melhoria e apresentar conclusões baseadas nos dados analisados.
 
