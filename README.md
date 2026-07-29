@@ -1,6 +1,4 @@
-# Estudo_De_Caso
-
-Estudo de caso para Analise de Dados:
+# Estudo de caso para Analise de Dados:
 
 
 Estudo de Caso – Floricultura Especializada em Orquídeas
@@ -15,7 +13,7 @@ Case.ipynb – Script em Python responsável pelo tratamento, análise e visuali
 
 CaseStudy.pdf – Documento contendo a descrição do estudo de caso e o contexto do problema.
 
-Analise.pdf – Relatório com a análise dos dados, resultados obtidos e principais conclusões.
+Analise_CaseStudy.pdf – Relatório com a análise dos dados, resultados obtidos e principais conclusões.
 
 README.md – Documentação do projeto e instruções sobre sua estrutura.
 
